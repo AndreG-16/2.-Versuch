@@ -1,1 +1,2 @@
 #Versuch ohne Anleitungsvideo
+conda
