@@ -1,2 +1,3 @@
 #Versuch ohne Anleitungsvideo
-conda
+print("Das ist ein Versuch ohne Anleitungsvideo")
+print("Eine neue Zeile")
